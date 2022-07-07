@@ -1,0 +1,172 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+/* navbar */
+#header{
+    background-color: black;
+}
+.container-fluid {
+    text-align: center;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+    text-align: center;
+    padding: 0px 80px 0px 80px;
+}
+.nav-link{
+    padding: 0 18px ;
+    color: white;
+    
+}
+.nav-item-phone {
+    background-color: #FFF600;
+}
+/* title */
+#title {
+    background-image: url(bg1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding: 80px 80px 80px 80px;
+    border: 100px;
+}
+.sm-heading{
+    font-family: 'Black Han Sans', sans-serif;
+}
+h1{
+    font-family: 'Black Han Sans', sans-serif;
+    font-size: 100px;
+}
+.btn{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    word-spacing: 4px;
+    font-size: 20px;
+    padding: 20px 0px;
+}
+.hr-yel{   
+    border-color: #EAF6F6;
+    border-width: 6px;
+    width: 50%;
+    margin:  auto;
+}
+/* work */
+#work{
+    background-color: #FAEA48;
+    color: black;
+    text-align: left;
+    padding: 100px 150px;
+    border: 100px;
+}
+.work-tit{
+    padding-bottom: 50px;
+}
+.lg-heading-work{
+    font-family: 'Black Han Sans', sans-serif;
+    font-size: 100px;
+    text-shadow: 10px 10px grey;
+}
+.hr-bl {
+    border-color: black;
+    border-width: 6px;
+    width: 95%;
+    margin:  auto;
+}
+.carousel{
+    padding: 2% 2%;
+    color: #fff;
+}
+.testimonial-image {
+    max-width: 40%;
+    height: auto;
+    /* to make the image circle */
+    border-radius: 100px; 
+    margin: 30px;
+    
+}
+.carousel-item {
+    padding: 2% 12%;
+}
+/* about */
+#about{
+    background-image: url(about.jpg);  
+    background-size: cover;
+    color: white;
+    text-align: left;
+    padding: 100px 150px;
+    border: 100px;
+}
+#pricing {
+    padding: 100px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    
+}
+.pricing-column{
+    padding: 2% 2%;
+}
+.card-img{
+    background-size: contain;
+    border-radius: 40%;
+}
+.card{
+    background: transparent;
+}
+.card-body{
+    padding: 0px 0px;
+}
+.fa-brands{
+    word-spacing: 10px;
+}
+#features {
+    padding: 7% 7%;
+}
+.f-box{
+    padding: 5%;
+}
+.fa-solid {
+    color: orange;
+    margin-bottom: 1.5rem;
+}
+.fa-solid:hover {
+    color: #ff4c68;
+}
+.icons{
+    text-align: end;
+    word-spacing: 7px;
+}
+/* contact */
+#contact{
+    background-color: #FAEA48;
+    color: black;
+    text-align: center;
+    padding: 100px 150px;
+    border: 100px;
+}
+h2{
+    font-family: cursive;
+}
+.fa-regular{
+    color: orange;
+    margin-bottom: 1.5rem;
+}
+.fa-regular:hover {
+    color: #ff4c68;
+}
+#footer {
+    padding: 2% 15%;
+    background-color: black;
+    text-align: center;
+}
+.social-icon {
+    margin: 10px 10px;
+    color: white;
+}
+.social-icon:hover {
+    color: #ff4c68;
+}
+
+
